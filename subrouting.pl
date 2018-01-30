@@ -3,6 +3,16 @@ sub hello {
     print "hello, world\n";
 }
 
+sub volume {
+    my $height = shift;     #弹出@_中的第一个值  10   @_: (20,30)
+    my $width = shift @_;   #弹出@_中的第一个值  20   @_: (30)
+    my ($depth) = @_;         #数组中的值   30
+
+    return $height * $width * $depth;
+}
+
+print volume(10,20,30);
+
 hello();
 
 # passing arguments 
