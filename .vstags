@@ -1,17 +1,20 @@
+
 !_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
 !_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
 !_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
-PrintHash	.\reference.pl	18;"	s
-PrintHash	.\subrouting.pl	43;"	s
-average	.\subrouting.pl	9;"	s
-hello	.\subrouting.pl	2;"	s
-larger_of_fred_or_barney	.\function.pl	11;"	s
-marine	.\function.pl	3;"	s
-max	.\function.pl	22;"	s
-max_better	.\function.pl	40;"	s
-max_para	.\function.pl	32;"	s
-printHash	.\subrouting.pl	36;"	s
-printList	.\subrouting.pl	23;"	s
+PrintHash	reference.pl	18;"	s
+PrintHash	subrouting.pl	53;"	s
+average	subrouting.pl	19;"	s
+hello	subrouting.pl	2;"	s
+larger_of_fred_or_barney	function.pl	11;"	s
+marine	function.pl	3;"	s
+max	function.pl	22;"	s
+max_better	function.pl	40;"	s
+max_para	function.pl	32;"	s
+printHash	subrouting.pl	46;"	s
+printList	subrouting.pl	33;"	s
+sum	test_for_perl.pl	9;"	s
+volume	subrouting.pl	6;"	s
