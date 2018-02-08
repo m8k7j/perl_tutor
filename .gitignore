@@ -107,4 +107,4 @@ venv.bak/
 launch.json
 settings.json
 .vstags
-.vscode
+.vscode/
